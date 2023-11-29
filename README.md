@@ -17,6 +17,7 @@
   - back
     * python
     * django
+      
 <br><br>
 
 3. 팀원 정보 및 업무 분담 내역

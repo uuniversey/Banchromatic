@@ -10,7 +10,13 @@
 <br><br>
 
 2. 사용한 기술 스택
-  - 
+  - front
+    * javascript
+    * vue.js
+    
+  - back
+    * python
+    * django
 <br><br>
 
 3. 팀원 정보 및 업무 분담 내역

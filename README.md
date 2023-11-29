@@ -1,6 +1,6 @@
 
 
-# final-pjt
+# Banchromatic
 
 1. 팀원 정보 및 업무 분담 내역
   - 이우주 
@@ -59,7 +59,7 @@
 
 3. 데이터베이스 모델링
 
-  ![img](src/img/erd.png)
+  ![img](final-pjt-front/src/img/erd.png)
 
 
 <br><br>
